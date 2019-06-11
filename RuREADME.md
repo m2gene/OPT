@@ -1,5 +1,4 @@
-# OPT
-tool for preparing your custom keyboard layouts
+
 1)  Скачайте "mingw-get-setup.exe" 
 а)   c официального сайта:
      http://www.mingw.org/wiki/Getting_Started
