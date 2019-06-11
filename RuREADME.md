@@ -1,6 +1,4 @@
-<html>
-<title>Установка OPT в Windows.</title>
-
+ h1 Установка OPT в Windows.
 
 1)  Скачайте "mingw-get-setup.exe" 
 
@@ -138,4 +136,4 @@ opt meinkorpus.txt
     под любые запросы. Смотрите руководство в архиве программы в pdf-файле "Anleitung.pdf".
     Во второй половине "Anleitung.pdf" руководство на английском языке. 	
 
-</html>
+
