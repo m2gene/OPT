@@ -1,4 +1,4 @@
-
+<html>
 <title>Установка OPT в Windows.</title>
 
 
@@ -138,3 +138,4 @@ opt meinkorpus.txt
     под любые запросы. Смотрите руководство в архиве программы в pdf-файле "Anleitung.pdf".
     Во второй половине "Anleitung.pdf" руководство на английском языке. 	
 
+</html>
