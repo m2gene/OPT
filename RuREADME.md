@@ -1,5 +1,6 @@
- h1 Установка OPT в Windows.
-
+ <h1>    
+ Установка OPT в Windows.
+</h1>
 1)  Скачайте "mingw-get-setup.exe" 
 
 
