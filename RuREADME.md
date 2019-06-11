@@ -1,20 +1,16 @@
  <h1>    
- Установка OPT в Windows.
+ Сборка OPT из исходников в Windows.
 </h1>
-1)  Скачайте "mingw-get-setup.exe" 
-
-
+<ol>
+	<li>
+Скачайте "mingw-get-setup.exe" 
+	</li>
+<ol type="a">
 а)   c официального сайта:
-
-
      http://www.mingw.org/wiki/Getting_Started
-     
-     
      пролистать вниз, до:
-     
-     
      "1. Click on this mingw-get-setup.exe"
-     
+	</ol>     
      
 b)   с sourceforge :
 
